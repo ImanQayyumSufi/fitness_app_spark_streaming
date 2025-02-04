@@ -25,7 +25,7 @@ I will implement a **structured data flow (Bronze, Silver, Gold layers)** using 
 
 ## About the datasets:
 
-![image.png](attachment:84acbcae-4d2f-40b1-a9c6-460ba749da00:image.png)
+![dataset.png](dataset.png)
 
 There are 5 datasets that will be ingested into landing area (data_zone) directory within azure data lake. 
 
@@ -39,7 +39,7 @@ Datasets are available on my github.
 
 ## Databricks Lakehouse Platform
 
-![image.png](attachment:9d32e69c-7355-4892-ad14-5d7b4d8ccb4f:image.png)
+![lakehouse_directory.png](lakehouse_directory.png)
 
 Using ADLS to create a container. And has 3 directories called
 
@@ -61,7 +61,7 @@ Implement Data Security for directories using Unity Catalog:
 
 ## Data Architecture Design
 
-![image.png](attachment:1537a28f-becb-4bb7-9489-f55e24bab110:image.png)
+![architecture_diagram.png](architecture_diagram.png)
 
 ## How to run project notebook
 
@@ -87,6 +87,9 @@ There are 10 notebooks that I have created for the project:
 
 10-producer - produce raw data sets by moving it to landing zone
 
+
 run notebook 08 to run the pipeline in batch mode
 
 run notebook 09 to run pipline in streaming mode
+
+### View my notion profile for project documentation
