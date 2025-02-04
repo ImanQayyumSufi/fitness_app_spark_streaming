@@ -93,3 +93,4 @@ run notebook 08 to run the pipeline in batch mode
 run notebook 09 to run pipline in streaming mode
 
 ### View my notion profile for project documentation
+https://skinny-key-516.notion.site/Fitness-App-Project-18e3c1adf0168088b33cc9c294f82720 
